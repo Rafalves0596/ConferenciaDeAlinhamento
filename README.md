@@ -14,6 +14,6 @@ Para os componentes, usamos:
 - 1 Arduino Uno;
 - 1 Placa Shield.
 
-![Ilustração Canva](<img width="1011" height="617" alt="Representação com Componentes" src="https://github.com/user-attachments/assets/fa62daac-688d-421d-b181-2b9968194025" />
-)
+<img width="1007" height="615" alt="image" src="https://github.com/user-attachments/assets/54b178a5-0eed-4ab8-b82a-985e110c2872" />
+
 
